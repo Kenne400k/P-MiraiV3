@@ -1,0 +1,197 @@
+{
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "updatePresence": true,
+        "listenTyping": true,
+        "logLevel": "silent",
+        "selfListen": true,
+        "selfListenEvent": true,
+        "autoMarkDelivery": false,
+        "autoReconnect": true
+    },
+    "language": "vi",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "FACEBOOK_ADMIN": "",
+    "BOTNAME": "Mirai-V3-Unofficial",
+    "PREFIX": "/",
+    "BOXADMIN": "6804616456270022",
+    "ADMINBOT": [
+        "100047128875560"
+    ],
+    "NDH": [
+        "100047128875560",
+        "",
+        ""
+    ],
+    "version": "3.0.0",
+    "DESIGN": {
+        "Theme": "rainbow",
+        "Admin": "Pcoder",
+        "Setup": {
+            "Theme": "Mày có thể dùng các Theme như: Aqua, Fiery, Blue, Pink, Red, Retro, Sunlight, Teen, Summer, Flower, Ghost, and Hacker to enhance your terminal logs."
+        }
+    },
+    "menu": {
+        "autoUnsend": {
+            "status": true,
+            "timeOut": 60
+        },
+        "sendAttachments": {
+            "status": true,
+            "random": true,
+            "url": "https://i.imgur.com/LKkw8SL.jpg"
+        }
+    },
+    "ảnh1": {
+        "cooldownTime": 1200000
+    },
+    "boctham": {
+        "cooldownTime": ""
+    },
+    "caesar": {
+        "caeserPassword": "266303"
+    },
+    "cave": {
+        "cooldownTime": 1000000
+    },
+    "count": {},
+    "surprise": {
+        "log": true,
+        "out": "",
+        "kickAll": "",
+        "delThread": ""
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 200000
+    },
+    "diemdanh": {
+        "cooldownTime": 300
+    },
+    "duaxe": {
+        "key": "cuongngu"
+    },
+    "duyetbox": {
+        "status": true
+    },
+    "fb": {},
+    "fball": {},
+    "football": {},
+    "gamelq": {
+        "cooldownTime": 60
+    },
+    "gif": {
+        "TENOR": "73YIAOY3ACT1"
+    },
+    "hunter": {
+        "userToken": "D7tTFhgD",
+        "adminToken": "ZkSy3UsT"
+    },
+    "huongdan": {
+        "autoUnsend": true,
+        "delayUnsend": 60
+    },
+    "igdlvideo": {
+        "API_KEY": "mzkFree_722124509AC10"
+    },
+    "infoid": {
+        "key": "leanhtruong_iKKkod59zJjQ4AcbopUC",
+        "token": "6628568379%7Cc1e620fa708a1d5696fb991c1bde5662"
+    },
+    "linkword": {
+        "APIKEY": ""
+    },
+    "lixi": {
+        "cooldownTime": 1200000
+    },
+    "loto": {
+        "maxPlayers": 10,
+        "getDelay": 8
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "menu2": {
+        "autoUnsend": true,
+        "delayUnsend": 60
+    },
+    "mine": {
+        "APIKEY": ""
+    },
+    "minecraft": {
+        "APIKEY": ""
+    },
+    "pokemon": {
+        "APIKEY": ""
+    },
+    "randomname": {
+        "APIKEY": "mi451266190"
+    },
+    "rname": {
+        "APIKEY": "mi451266190"
+    },
+    "sanime": {
+        "SAUCENAO_API": "169d56aff7fa708a78d20f1718a49faa98d4aeca"
+    },
+    "sauce": {
+        "SAUCENAO_API": "9e6148f133071602e192a565f49331cb575824a9"
+    },
+    "shortlink": {
+        "bitlyAPI": ""
+    },
+    "shortvd": {
+        "APIKEY": "XSemUp2Zv5"
+    },
+    "sub": {
+        "APIKEY": ""
+    },
+    "subnautica": {
+        "APIKEY": ""
+    },
+    "subnau": {
+        "APIKEY": ""
+    },
+    "video": {
+        "YOUTUBE_API": "AIzaSyC1HQ3HHQSzgXdvlm5vZ2gWX0Ubk8GYD-c"
+    },
+    "vieclam": {
+        "cooldownTime": 1200000
+    },
+    "wcauca": {
+        "cooldownTime": 30000
+    },
+    "weather": {
+        "OPEN_WEATHER": "081c82065cfee62cb7988ddf90914bdd"
+    },
+    "work": {
+        "cooldownTime": ""
+    },
+    "working": {
+        "cooldownTime": 1200000
+    },
+    "xidach": {
+        "maxPlayers": 5,
+        "normalWinBonus": 1,
+        "superWinBonus": 2,
+        "epicWinBonus": 4
+    },
+    "ytmp3": {
+        "YOUTUBE_API": "AIzaSyA25_Ne0gD1DeciKIM8PzZBLvQ0MgGRlr0"
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "log": {
+        "enable": true
+    }
+}

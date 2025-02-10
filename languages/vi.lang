@@ -1,0 +1,73 @@
+# Nếu bạn muốn xuống dòng, hãy dùng \n. VD: JRT\nJRT
+# Sau khi thay đổi, bạn phải khởi động lại bot để có hiệu lực.
+# Đặt kí tự # ở đầu mỗi câu nếu bạn không muốn code chạy những dòng đó.
+# Thanks to Nguyễn Trương Thiện Phát for translating to Vietnamese!
+
+# mirai.js
+
+mirai.errorFormat=Module không đúng định dạng!
+mirai.nameExist=Tên module bị trùng với một module khác. Vui lòng kiểm tra lại!
+mirai.notFoundLanguage=Module %1 không hỗ trợ ngôn ngữ của bạn
+mirai.notFoundPackage=Không tìm thấy package %1 để hỗ trợ module %2
+mirai.cantInstallPackage=Không thể cài đặt package %1 cho module %2, lỗi: %3
+mirai.loadedPackage=Đã tải thành công tất cả package cho module %1
+mirai.loadedConfig=Đã tải thành công cấu hình cho module %1
+mirai.cantLoadConfig=Không thể tải cấu hình của module %1, lỗi: %2
+mirai.cantOnload=Không thể khởi chạy module %1, lỗi: %1
+mirai.successLoadModule=Module %1 đã tải thành công!
+mirai.failLoadModule=Không thể tải module %1, lỗi: %2
+mirai.finishLoadModule=Đã tải thành công %1 lệnh và %2 sự kiện!
+mirai.foundPathAppstate=✅ Tìm thấy file appstate!
+mirai.notFoundPathAppstate=❌ Không tìm thấy file appstate! Vui lòng kiểm tra lại.
+mirai.checkListGban=🔍 Đang kiểm tra danh sách BANNED...
+mirai.banDevice=🚫 Thiết bị của bạn đã bị cấm sử dụng bot! Liên hệ Admin tại:\n📌 Facebook: https://www.facebook.com/100047128875560\n📞 Zalo: 0786888655
+mirai.keyNotSameFormat=Dữ liệu nhập vào phải là một dãy số gồm 6 chữ số!
+mirai.codeInputExpired=Mã xác nhận không hợp lệ hoặc đã hết hạn!
+mirai.unbanDeviceSuccess=🎉 Facebook ID của bạn đã được gỡ ban! Hãy khởi động lại bot để tiếp tục sử dụng.
+mirai.userBanned=🚫 Bạn đã bị cấm sử dụng bot vào lúc %1 với lý do: %2.\nVui lòng liên hệ Admin:\n📌 Facebook: https://www.facebook.com/100047128875560\n📞 Zalo: 0786888655
+mirai.finishCheckListGban=✅ Đã kiểm tra xong danh sách BANNED!
+mirai.handleListenError=⚠️ Lỗi xảy ra khi xử lý lắng nghe bot, lỗi: %1
+mirai.warningSourceCode=\n🚀 Bot đã được cập nhật hoàn tất!
+mirai.refreshListen=🔄 Đã làm mới lại handleListener...
+mirai.successConnectDatabase=✅ Kết nối dữ liệu bot thành công!\n
+mirai.failConnectDatabase=❌ Kết nối dữ liệu thất bại! Lỗi: %1. Vui lòng kiểm tra lại.
+
+# includes/listen.js
+
+listen.startLoadEnvironment=🚀 Đang khởi tạo cấu trúc BOT...
+listen.loadedEnvironmentThread=✅ Đã khởi tạo thành công nhóm sử dụng bot!
+listen.loadedEnvironmentUser=✅ Đã khởi tạo thành công người dùng bot!
+listen.successLoadEnvironment=🎉 Khởi tạo cấu trúc BOT hoàn tất!
+listen.failLoadEnvironment=❌ Khởi tạo BOT thất bại, lỗi: %1
+
+# includes/handle/handleCommandEvent.js
+handleCommandEvent.moduleError=Đã xảy ra lỗi khi xử lý sự kiện lệnh %1.
+
+# includes/handle/handleCommand.js
+
+handleCommand.userBanned=🚫 Bạn hiện đang bị cấm sử dụng bot!\n📌 Liên hệ Admin qua Facebook: https://www.facebook.com/100047128875560\n📞 Zalo: 0786888655\nLý do: %1\n%2
+handleCommand.threadBanned=🚫 Nhóm của bạn hiện đang bị cấm sử dụng bot!\n📌 Liên hệ Admin qua Facebook: https://www.facebook.com/100047128875560\n📞 Zalo: 0786888655\nLý do: %1\n%2
+handleCommand.commandNotExist=❓ Lệnh không tồn tại! Có phải bạn muốn nhập lệnh [ %1 ] không?
+handleCommand.commandThreadBanned=🚫 Nhóm của bạn không được phép sử dụng lệnh "%1".\n📌 Liên hệ Admin qua Facebook: https://www.facebook.com/100047128875560
+handleCommand.commandUserBanned=🚫 Bạn đã bị cấm sử dụng lệnh "%1".\n📌 Liên hệ Admin qua Facebook: https://www.facebook.com/100047128875560
+handleCommand.threadNotAllowNSFW=🚫 Nhóm của bạn không được phép sử dụng lệnh NSFW do chứa nội dung 18+!
+handleCommand.cantGetInfoThread=⚠️ Không thể lấy thông tin nhóm, lỗi: %1
+handleCommand.permssionNotEnough=⛔ Bạn không có quyền sử dụng lệnh "%1"! Lệnh này chỉ dành cho Admin hoặc Quản trị viên.
+handleCommand.cantSetMessageReaction=⚠️ Lỗi không mong muốn khi đặt phản ứng tin nhắn, lỗi: %1
+handleCommand.notFoundLanguage=❌ Không tìm thấy ngôn ngữ hỗ trợ cho module %1
+handleCommand.executeCommand=📌 Lệnh: %2 | Người dùng: %3 | Nhóm: %4 | Thời gian xử lý: %6ms
+handleCommand.commandError=⚠️ Đã xảy ra lỗi khi thực thi lệnh %1, lỗi: %2
+
+# includes/handle/handleReaction.js
+
+handleReaction.missingValue=⚠️ Thiếu dữ liệu cần thiết để phản hồi câu hỏi!
+handleReaction.executeError=⚠️ Đã xảy ra lỗi trong quá trình phản hồi, lỗi: %1
+
+# includes/handle/handleReply.js
+
+handleReply.missingValue=⚠️ Thiếu dữ liệu cần thiết để phản hồi câu trả lời!
+handleReply.executeError=⚠️ Đã xảy ra lỗi trong quá trình phản hồi, lỗi: %1
+
+# utils/index.js
+
+utils.throwError=❌ Bạn đã nhập lệnh sai! Vui lòng sử dụng %1help %2 để xem hướng dẫn sử dụng.

@@ -1,0 +1,947 @@
+{
+    "12345": {
+        "4": {
+            "user": {
+                "100094468154868": {
+                    "yesterDay": 0,
+                    "today": 1,
+                    "weekday": 1
+                }
+            }
+        }
+    },
+    "1000772": {
+        "4": {
+            "user": {
+                "100094468154868": {
+                    "yesterDay": 0,
+                    "today": 1,
+                    "weekday": 1
+                }
+            }
+        }
+    },
+    "9545645928840528": {
+        "1": {},
+        "2": {
+            "user": {
+                "100057098383899": {
+                    "yesterDay": 0,
+                    "today": 1,
+                    "weekday": 1
+                },
+                "100047128875560": {
+                    "yesterDay": 1,
+                    "today": 0,
+                    "weekday": 0
+                },
+                "100094468154868": {
+                    "yesterDay": 1,
+                    "today": 0,
+                    "weekday": 1
+                }
+            }
+        },
+        "3": {},
+        "4": {},
+        "5": {
+            "user": {
+                "100088286371303": {
+                    "yesterDay": 8,
+                    "today": 4,
+                    "weekday": 23
+                },
+                "100075493308135": {
+                    "yesterDay": 85,
+                    "today": 0,
+                    "weekday": 272
+                },
+                "100047128875560": {
+                    "yesterDay": 89,
+                    "today": 0,
+                    "weekday": 196
+                },
+                "100094468154868": {
+                    "yesterDay": 18,
+                    "today": 0,
+                    "weekday": 73
+                },
+                "100061183894247": {
+                    "yesterDay": 118,
+                    "today": 4,
+                    "weekday": 255
+                },
+                "100069554461385": {
+                    "yesterDay": 80,
+                    "today": 0,
+                    "weekday": 229
+                },
+                "100080204603951": {
+                    "yesterDay": 2,
+                    "today": 0,
+                    "weekday": 2
+                },
+                "100083737554013": {
+                    "yesterDay": 59,
+                    "today": 8,
+                    "weekday": 67
+                }
+            }
+        }
+    },
+    "6470591463022013": {
+        "2": {
+            "user": {
+                "100024394538258": {
+                    "yesterDay": 0,
+                    "today": 1,
+                    "weekday": 1
+                },
+                "100094468154868": {
+                    "yesterDay": 0,
+                    "today": 2,
+                    "weekday": 2
+                },
+                "100047128875560": {
+                    "yesterDay": 0,
+                    "today": 1,
+                    "weekday": 1
+                }
+            }
+        }
+    },
+    "100079017055391": {
+        "4": {
+            "user": {
+                "100094468154868": {
+                    "yesterDay": 0,
+                    "today": 1,
+                    "weekday": 1
+                }
+            }
+        }
+    },
+    "100082539435511": {
+        "4": {
+            "user": {
+                "100094468154868": {
+                    "yesterDay": 0,
+                    "today": 1,
+                    "weekday": 1
+                }
+            }
+        }
+    },
+    "100070029021562": {
+        "4": {
+            "user": {
+                "100094468154868": {
+                    "yesterDay": 0,
+                    "today": 1,
+                    "weekday": 1
+                }
+            }
+        }
+    },
+    "100042284768377": {
+        "4": {
+            "user": {
+                "100094468154868": {
+                    "yesterDay": 0,
+                    "today": 1,
+                    "weekday": 1
+                }
+            }
+        }
+    },
+    "100085664003625": {
+        "4": {
+            "user": {
+                "100094468154868": {
+                    "yesterDay": 0,
+                    "today": 1,
+                    "weekday": 1
+                }
+            }
+        }
+    },
+    "100013942628281": {
+        "4": {
+            "user": {
+                "100094468154868": {
+                    "yesterDay": 0,
+                    "today": 1,
+                    "weekday": 1
+                }
+            }
+        }
+    },
+    "100026059477387": {
+        "4": {
+            "user": {
+                "100094468154868": {
+                    "yesterDay": 0,
+                    "today": 1,
+                    "weekday": 1
+                }
+            }
+        }
+    },
+    "100005921221831": {
+        "4": {
+            "user": {
+                "100094468154868": {
+                    "yesterDay": 0,
+                    "today": 1,
+                    "weekday": 1
+                }
+            }
+        }
+    },
+    "100047128875560": {
+        "3": {
+            "user": {
+                "61570822027619": {
+                    "yesterDay": 0,
+                    "today": 3,
+                    "weekday": 3
+                }
+            }
+        },
+        "4": {},
+        "5": {
+            "user": {
+                "61552443674105": {
+                    "yesterDay": 0,
+                    "today": 1,
+                    "weekday": 1
+                },
+                "100094468154868": {
+                    "yesterDay": 4,
+                    "today": 0,
+                    "weekday": 4
+                }
+            }
+        }
+    },
+    "6129092673880838": {
+        "2": {
+            "user": {
+                "100057098383899": {
+                    "yesterDay": 0,
+                    "today": 1,
+                    "weekday": 1
+                }
+            }
+        },
+        "4": {
+            "user": {
+                "100088260339493": {
+                    "yesterDay": 0,
+                    "today": 34,
+                    "weekday": 34
+                },
+                "100047128875560": {
+                    "yesterDay": 0,
+                    "today": 40,
+                    "weekday": 40
+                },
+                "100094468154868": {
+                    "yesterDay": 0,
+                    "today": 38,
+                    "weekday": 38
+                },
+                "100088286371303": {
+                    "yesterDay": 0,
+                    "today": 20,
+                    "weekday": 20
+                },
+                "100075493308135": {
+                    "yesterDay": 0,
+                    "today": 8,
+                    "weekday": 8
+                },
+                "100061183894247": {
+                    "yesterDay": 0,
+                    "today": 12,
+                    "weekday": 12
+                },
+                "100088334332155": {
+                    "yesterDay": 0,
+                    "today": 8,
+                    "weekday": 8
+                },
+                "100083737554013": {
+                    "yesterDay": 0,
+                    "today": 6,
+                    "weekday": 6
+                },
+                "100069554461385": {
+                    "yesterDay": 0,
+                    "today": 6,
+                    "weekday": 6
+                },
+                "100053800224181": {
+                    "yesterDay": 0,
+                    "today": 1,
+                    "weekday": 1
+                },
+                "100092900043090": {
+                    "yesterDay": 0,
+                    "today": 7,
+                    "weekday": 7
+                }
+            }
+        },
+        "6": {
+            "user": {
+                "100047128875560": {
+                    "yesterDay": 0,
+                    "today": 6,
+                    "weekday": 6
+                },
+                "100094468154868": {
+                    "yesterDay": 0,
+                    "today": 1,
+                    "weekday": 1
+                }
+            }
+        }
+    },
+    "9674281555979971": {
+        "1": {},
+        "2": {
+            "user": {
+                "100047128875560": {
+                    "yesterDay": 2,
+                    "today": 21,
+                    "weekday": 21
+                },
+                "100086610441192": {
+                    "yesterDay": 22,
+                    "today": 157,
+                    "weekday": 157
+                },
+                "100091279550340": {
+                    "yesterDay": 27,
+                    "today": 0,
+                    "weekday": 1
+                },
+                "100061144268410": {
+                    "yesterDay": 1,
+                    "today": 45,
+                    "weekday": 45
+                },
+                "100024476621355": {
+                    "yesterDay": 5,
+                    "today": 0,
+                    "weekday": 0
+                },
+                "100094468154868": {
+                    "yesterDay": 2,
+                    "today": 995,
+                    "weekday": 995
+                },
+                "100068101231496": {
+                    "yesterDay": 0,
+                    "today": 70,
+                    "weekday": 70
+                },
+                "100060924941806": {
+                    "yesterDay": 0,
+                    "today": 33,
+                    "weekday": 33
+                },
+                "100031888521832": {
+                    "yesterDay": 0,
+                    "today": 156,
+                    "weekday": 156
+                }
+            }
+        }
+    },
+    "7215142508570173": {
+        "4": {
+            "user": {
+                "100047128875560": {
+                    "yesterDay": 0,
+                    "today": 2,
+                    "weekday": 2
+                },
+                "61556709404454": {
+                    "yesterDay": 0,
+                    "today": 2,
+                    "weekday": 2
+                }
+            }
+        }
+    },
+    "7770140319663159": {
+        "5": {
+            "user": {
+                "61552443674105": {
+                    "yesterDay": 0,
+                    "today": 1,
+                    "weekday": 1
+                }
+            }
+        }
+    },
+    "7378168892269268": {
+        "5": {
+            "user": {
+                "100093050791803": {
+                    "yesterDay": 0,
+                    "today": 7,
+                    "weekday": 7
+                },
+                "61550908501933": {
+                    "yesterDay": 0,
+                    "today": 5,
+                    "weekday": 5
+                },
+                "61553894250745": {
+                    "yesterDay": 0,
+                    "today": 2,
+                    "weekday": 2
+                }
+            }
+        }
+    },
+    "8018731074820587": {
+        "5": {
+            "user": {
+                "840219157": {
+                    "yesterDay": 0,
+                    "today": 1,
+                    "weekday": 1
+                },
+                "100081575238051": {
+                    "yesterDay": 0,
+                    "today": 1,
+                    "weekday": 1
+                },
+                "61552443674105": {
+                    "yesterDay": 0,
+                    "today": 2,
+                    "weekday": 2
+                },
+                "100078392752170": {
+                    "yesterDay": 0,
+                    "today": 1,
+                    "weekday": 1
+                }
+            }
+        }
+    },
+    "7245803712210137": {
+        "1": {
+            "user": {
+                "100047128875560": {
+                    "yesterDay": 0,
+                    "today": 4,
+                    "weekday": 1
+                },
+                "61571932131270": {
+                    "yesterDay": 0,
+                    "today": 1,
+                    "weekday": 0
+                }
+            }
+        },
+        "3": {
+            "user": {
+                "100047128875560": {
+                    "yesterDay": 0,
+                    "today": 21,
+                    "weekday": 21
+                },
+                "61570518327409": {
+                    "yesterDay": 0,
+                    "today": 3,
+                    "weekday": 3
+                },
+                "100042077344942": {
+                    "yesterDay": 0,
+                    "today": 11,
+                    "weekday": 11
+                },
+                "100071030600195": {
+                    "yesterDay": 0,
+                    "today": 3,
+                    "weekday": 3
+                }
+            }
+        }
+    },
+    "9480819391950156": {
+        "0": {
+            "user": {
+                "61573093852665": {
+                    "yesterDay": 0,
+                    "today": 60,
+                    "weekday": 60
+                },
+                "100000895922054": {
+                    "yesterDay": 0,
+                    "today": 62,
+                    "weekday": 62
+                },
+                "61572730987116": {
+                    "yesterDay": 0,
+                    "today": 47,
+                    "weekday": 47
+                },
+                "100047128875560": {
+                    "yesterDay": 0,
+                    "today": 23,
+                    "weekday": 23
+                },
+                "61573079032447": {
+                    "yesterDay": 0,
+                    "today": 4,
+                    "weekday": 4
+                },
+                "100072947723590": {
+                    "yesterDay": 0,
+                    "today": 30,
+                    "weekday": 30
+                },
+                "61569711977129": {
+                    "yesterDay": 0,
+                    "today": 1,
+                    "weekday": 1
+                }
+            }
+        },
+        "1": {
+            "user": {
+                "100000895922054": {
+                    "yesterDay": 0,
+                    "today": 125,
+                    "weekday": 1
+                },
+                "100047128875560": {
+                    "yesterDay": 0,
+                    "today": 55,
+                    "weekday": 0
+                },
+                "61557159484650": {
+                    "yesterDay": 0,
+                    "today": 23,
+                    "weekday": 0
+                }
+            }
+        },
+        "3": {},
+        "4": {
+            "user": {
+                "100047128875560": {
+                    "yesterDay": 147,
+                    "today": 23,
+                    "weekday": 170
+                },
+                "100000895922054": {
+                    "yesterDay": 98,
+                    "today": 10,
+                    "weekday": 108
+                },
+                "61570518327409": {
+                    "yesterDay": 94,
+                    "today": 0,
+                    "weekday": 94
+                },
+                "61572827156344": {
+                    "yesterDay": 10,
+                    "today": 0,
+                    "weekday": 10
+                },
+                "61570653403389": {
+                    "yesterDay": 0,
+                    "today": 17,
+                    "weekday": 17
+                }
+            }
+        },
+        "6": {
+            "user": {
+                "100047128875560": {
+                    "yesterDay": 0,
+                    "today": 231,
+                    "weekday": 231
+                },
+                "100000895922054": {
+                    "yesterDay": 0,
+                    "today": 409,
+                    "weekday": 409
+                },
+                "61570146055407": {
+                    "yesterDay": 0,
+                    "today": 60,
+                    "weekday": 60
+                },
+                "61554028376100": {
+                    "yesterDay": 0,
+                    "today": 2,
+                    "weekday": 2
+                },
+                "61573079032447": {
+                    "yesterDay": 0,
+                    "today": 104,
+                    "weekday": 104
+                },
+                "100093051642489": {
+                    "yesterDay": 0,
+                    "today": 38,
+                    "weekday": 38
+                },
+                "61566604766514": {
+                    "yesterDay": 0,
+                    "today": 7,
+                    "weekday": 7
+                },
+                "61573093852665": {
+                    "yesterDay": 0,
+                    "today": 146,
+                    "weekday": 146
+                },
+                "61559447971396": {
+                    "yesterDay": 0,
+                    "today": 58,
+                    "weekday": 58
+                },
+                "100063600331393": {
+                    "yesterDay": 0,
+                    "today": 2,
+                    "weekday": 2
+                },
+                "100074331292459": {
+                    "yesterDay": 0,
+                    "today": 3,
+                    "weekday": 3
+                },
+                "100077250049300": {
+                    "yesterDay": 0,
+                    "today": 30,
+                    "weekday": 30
+                },
+                "100015047057240": {
+                    "yesterDay": 0,
+                    "today": 50,
+                    "weekday": 50
+                }
+            }
+        }
+    },
+    "7502165596502157": {
+        "1": {
+            "user": {
+                "100052277221131": {
+                    "yesterDay": 0,
+                    "today": 1,
+                    "weekday": 1
+                }
+            }
+        },
+        "6": {
+            "user": {
+                "100055187473234": {
+                    "yesterDay": 0,
+                    "today": 1,
+                    "weekday": 1
+                },
+                "100007045000485": {
+                    "yesterDay": 0,
+                    "today": 1,
+                    "weekday": 1
+                },
+                "61552001218974": {
+                    "yesterDay": 0,
+                    "today": 2,
+                    "weekday": 2
+                },
+                "100073872873800": {
+                    "yesterDay": 0,
+                    "today": 3,
+                    "weekday": 3
+                },
+                "100064809443299": {
+                    "yesterDay": 0,
+                    "today": 1,
+                    "weekday": 1
+                }
+            }
+        }
+    },
+    "6139094946157322": {
+        "1": {
+            "user": {
+                "525858962": {
+                    "yesterDay": 0,
+                    "today": 2,
+                    "weekday": 1
+                }
+            }
+        },
+        "6": {
+            "user": {
+                "928752": {
+                    "yesterDay": 0,
+                    "today": 2,
+                    "weekday": 2
+                },
+                "525858962": {
+                    "yesterDay": 0,
+                    "today": 8,
+                    "weekday": 8
+                },
+                "100082665360412": {
+                    "yesterDay": 0,
+                    "today": 19,
+                    "weekday": 19
+                },
+                "100000895922054": {
+                    "yesterDay": 0,
+                    "today": 8,
+                    "weekday": 8
+                },
+                "100080821868442": {
+                    "yesterDay": 0,
+                    "today": 8,
+                    "weekday": 8
+                },
+                "61556569378429": {
+                    "yesterDay": 0,
+                    "today": 1,
+                    "weekday": 1
+                }
+            }
+        }
+    },
+    "9199764436708562": {
+        "3": {
+            "user": {
+                "100042077344942": {
+                    "yesterDay": 0,
+                    "today": 4,
+                    "weekday": 4
+                },
+                "100038225054588": {
+                    "yesterDay": 0,
+                    "today": 1,
+                    "weekday": 1
+                },
+                "61550248334904": {
+                    "yesterDay": 0,
+                    "today": 1,
+                    "weekday": 1
+                },
+                "100039815677373": {
+                    "yesterDay": 0,
+                    "today": 1,
+                    "weekday": 1
+                },
+                "61570518327409": {
+                    "yesterDay": 0,
+                    "today": 1,
+                    "weekday": 1
+                }
+            }
+        }
+    },
+    "100065095141252": {
+        "4": {
+            "user": {
+                "61570518327409": {
+                    "yesterDay": 0,
+                    "today": 1,
+                    "weekday": 1
+                }
+            }
+        }
+    },
+    "100083708986199": {
+        "4": {
+            "user": {
+                "61570518327409": {
+                    "yesterDay": 0,
+                    "today": 1,
+                    "weekday": 1
+                }
+            }
+        }
+    },
+    "100027342015827": {
+        "4": {
+            "user": {
+                "61570518327409": {
+                    "yesterDay": 0,
+                    "today": 1,
+                    "weekday": 1
+                }
+            }
+        }
+    },
+    "100074111865170": {
+        "4": {
+            "user": {
+                "61570518327409": {
+                    "yesterDay": 0,
+                    "today": 1,
+                    "weekday": 1
+                }
+            }
+        }
+    },
+    "6734610239927046": {
+        "6": {
+            "user": {
+                "100058139116506": {
+                    "yesterDay": 0,
+                    "today": 9,
+                    "weekday": 9
+                },
+                "61568238584915": {
+                    "yesterDay": 0,
+                    "today": 3,
+                    "weekday": 3
+                },
+                "100082665360412": {
+                    "yesterDay": 0,
+                    "today": 4,
+                    "weekday": 4
+                },
+                "100062928253294": {
+                    "yesterDay": 0,
+                    "today": 3,
+                    "weekday": 3
+                },
+                "100000895922054": {
+                    "yesterDay": 0,
+                    "today": 4,
+                    "weekday": 4
+                },
+                "100087845559612": {
+                    "yesterDay": 0,
+                    "today": 1,
+                    "weekday": 1
+                },
+                "100078698028594": {
+                    "yesterDay": 0,
+                    "today": 2,
+                    "weekday": 2
+                },
+                "61554028376100": {
+                    "yesterDay": 0,
+                    "today": 1,
+                    "weekday": 1
+                }
+            }
+        }
+    },
+    "8701935253192281": {
+        "6": {
+            "user": {
+                "525858962": {
+                    "yesterDay": 0,
+                    "today": 1,
+                    "weekday": 1
+                },
+                "61563144100648": {
+                    "yesterDay": 0,
+                    "today": 1,
+                    "weekday": 1
+                },
+                "100000895922054": {
+                    "yesterDay": 0,
+                    "today": 34,
+                    "weekday": 34
+                },
+                "61558219527956": {
+                    "yesterDay": 0,
+                    "today": 7,
+                    "weekday": 7
+                },
+                "100068070915645": {
+                    "yesterDay": 0,
+                    "today": 1,
+                    "weekday": 1
+                },
+                "61551468206134": {
+                    "yesterDay": 0,
+                    "today": 2,
+                    "weekday": 2
+                },
+                "100083853039562": {
+                    "yesterDay": 0,
+                    "today": 2,
+                    "weekday": 2
+                },
+                "61554864356499": {
+                    "yesterDay": 0,
+                    "today": 3,
+                    "weekday": 3
+                },
+                "100028212273330": {
+                    "yesterDay": 0,
+                    "today": 1,
+                    "weekday": 1
+                },
+                "61553860236902": {
+                    "yesterDay": 0,
+                    "today": 4,
+                    "weekday": 4
+                },
+                "100090409194422": {
+                    "yesterDay": 0,
+                    "today": 1,
+                    "weekday": 1
+                }
+            }
+        }
+    },
+    "7061449280642707": {
+        "6": {
+            "user": {
+                "100082332411549": {
+                    "yesterDay": 0,
+                    "today": 1,
+                    "weekday": 1
+                }
+            }
+        }
+    },
+    "6682933395100566": {
+        "6": {
+            "user": {
+                "100082332411549": {
+                    "yesterDay": 0,
+                    "today": 1,
+                    "weekday": 1
+                }
+            }
+        }
+    },
+    "7516708015083799": {
+        "6": {
+            "user": {
+                "100082332411549": {
+                    "yesterDay": 0,
+                    "today": 1,
+                    "weekday": 1
+                }
+            }
+        }
+    },
+    "9127769563931997": {
+        "6": {
+            "user": {
+                "100082332411549": {
+                    "yesterDay": 0,
+                    "today": 1,
+                    "weekday": 1
+                }
+            }
+        }
+    }
+}

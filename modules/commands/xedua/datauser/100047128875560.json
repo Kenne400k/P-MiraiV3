@@ -1,0 +1,18 @@
+{
+    "name": "Nguyễn Phát",
+    "ID": "100047128875560",
+    "shield": 3,
+    "coins": 200,
+    "Island": {
+        "level": 1,
+        "coinsLV": 200,
+        "data": {
+            "tower": 10,
+            "tree": 0,
+            "pool": 0,
+            "pet": 0
+        }
+    },
+    "spin": 27,
+    "timeRegister": "15:37:17 4/2/2025"
+}
