@@ -171,7 +171,7 @@ module.exports = function({ api, models }) {
 (async function () {
 
     try {
-        logger(global.getText('listen', 'startLoadEnvironment'), '[ DATABASE ]');
+        logger(global.getText('listen', 'startLoadEnvironment'), '『 P-DATABASE』');
         let threads = await Threads.getAll(),
             users = await Users.getAll(['userID', 'name', 'data']),
             currencies = await Currencies.getAll(['userID']);
@@ -208,7 +208,7 @@ module.exports = function({ api, models }) {
         return logger.loader(global.getText('listen', 'failLoadEnvironment', error), 'error');
     }
 }());
-	logger(`${api.getCurrentUserID()} - [ ${global.config.PREFIX} ] • ${(!global.config.BOTNAME) ? "PCODER" : global.config.BOTNAME}`, "[ BOT INFO ]");
+	logger(`${api.getCurrentUserID()} - [ ${global.config.PREFIX} ] • ${(!global.config.BOTNAME) ? "PCODER" : global.config.BOTNAME}`, "『 BOT INFO 』");
 	
 	///////////////////////////////////////////////
 	//========= Require all handle need =========//

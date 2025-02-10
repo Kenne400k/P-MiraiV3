@@ -1,0 +1,24 @@
+html {
+    background:#ecf0f1;
+}
+canvas {
+  display:block;
+  margin:auto;
+  background:#ecf0f1;
+}
+.events-container {
+  max-height: 500px; /* Chiều cao tối đa của khung */
+  overflow-y: auto; /* Thêm thanh trượt dọc */
+  width: 100%; /* Độ rộng của khung là 100% của phần tử cha */
+  max-width: 750px; /* Giới hạn chiều rộng tối đa của khung, bạn có thể điều chỉnh */
+  margin: 0 auto; /* Canh giữa khung */
+  border: 1px solid #ccc; /* Viền của khung */
+  padding: 10px; /* Khoảng cách giữa nội dung và viền */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Đổ bóng cho khung */
+  background-color: #f9f9f9; /* Màu nền của khung */
+  white-space: pre-wrap; /* Giữ nguyên khoảng trắng và xuống dòng */
+  font-family: monospace; /* Sử dụng font chữ monospace để dễ đọc JSON */
+  text-align: left; /* Căn lề văn bản sang bên trái */
+}
+
+

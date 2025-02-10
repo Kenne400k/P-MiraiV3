@@ -3,12 +3,12 @@
     "PreKey": "",
     "AutoUpdate": true,
     "MainColor": "#9900FF",
-    "MainName": "[ FCA-HZI ]",
+    "MainName": "[ FCA-PCODER ]",
     "Uptime": false,
     "Config": "default",
     "DevMode": false,
     "Login2Fa": false,
-    "AutoLogin": false,
+    "AutoLogin": true,
     "BroadCast": true,
     "AuthString": "",
     "EncryptFeature": true,
@@ -38,7 +38,7 @@
     },
     "CheckPointBypass": {
         "956": {
-            "Allow": false,
+            "Allow": true,
             "Difficult": "Easy",
             "Notification": "Turn on with AutoLogin!"
         }

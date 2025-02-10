@@ -479,28 +479,28 @@
             "user": {
                 "61573093852665": {
                     "yesterDay": 0,
-                    "today": 60,
-                    "weekday": 60
+                    "today": 72,
+                    "weekday": 72
                 },
                 "100000895922054": {
                     "yesterDay": 0,
-                    "today": 62,
-                    "weekday": 62
+                    "today": 80,
+                    "weekday": 80
                 },
                 "61572730987116": {
                     "yesterDay": 0,
-                    "today": 47,
-                    "weekday": 47
+                    "today": 57,
+                    "weekday": 57
                 },
                 "100047128875560": {
                     "yesterDay": 0,
-                    "today": 23,
-                    "weekday": 23
+                    "today": 52,
+                    "weekday": 52
                 },
                 "61573079032447": {
                     "yesterDay": 0,
-                    "today": 4,
-                    "weekday": 4
+                    "today": 23,
+                    "weekday": 23
                 },
                 "100072947723590": {
                     "yesterDay": 0,
@@ -511,6 +511,11 @@
                     "yesterDay": 0,
                     "today": 1,
                     "weekday": 1
+                },
+                "100077250049300": {
+                    "yesterDay": 0,
+                    "today": 3,
+                    "weekday": 3
                 }
             }
         },
